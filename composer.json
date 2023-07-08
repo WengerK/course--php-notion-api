@@ -1,0 +1,22 @@
+{
+  "name": "wengerk/course--php-notion-api",
+  "description": "Super-simple, course designed to explain & showcase how to use the Notion API with PHP",
+  "license": "MIT",
+  "homepage": "https://github.com/WengerK/course--php-notion-api",
+  "authors": [
+    {
+      "name": "Kevin Wenger",
+      "email": "contact@kevin-wenger.ch",
+      "homepage": "http://kevin-wenger.ch",
+      "role": "Author & Maintainer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "symfony/dotenv": "^6.3"
+  }
+}
